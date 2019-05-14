@@ -1,0 +1,10 @@
+C:\Users\cmoraitis\source\repos\TTS_Eng-text\bin\Debug\TTS_Eng-text.exe.config
+C:\Users\cmoraitis\source\repos\TTS_Eng-text\bin\Debug\TTS_Eng-text.exe
+C:\Users\cmoraitis\source\repos\TTS_Eng-text\bin\Debug\TTS_Eng-text.pdb
+C:\Users\cmoraitis\source\repos\TTS_Eng-text\obj\Debug\TTS_Eng-text.csprojAssemblyReference.cache
+C:\Users\cmoraitis\source\repos\TTS_Eng-text\obj\Debug\TTS_Eng_text.Form1.resources
+C:\Users\cmoraitis\source\repos\TTS_Eng-text\obj\Debug\TTS_Eng_text.Properties.Resources.resources
+C:\Users\cmoraitis\source\repos\TTS_Eng-text\obj\Debug\TTS_Eng-text.csproj.GenerateResource.cache
+C:\Users\cmoraitis\source\repos\TTS_Eng-text\obj\Debug\TTS_Eng-text.csproj.CoreCompileInputs.cache
+C:\Users\cmoraitis\source\repos\TTS_Eng-text\obj\Debug\TTS_Eng-text.exe
+C:\Users\cmoraitis\source\repos\TTS_Eng-text\obj\Debug\TTS_Eng-text.pdb
